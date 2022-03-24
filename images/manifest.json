@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1000,
+    "id" : "https://Pippa-W.github.io/M/images/Brasiliae/canvas/",
+    "label" : {
+      "none" : [ "Brasiliae" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Pippa-W.github.io/M/images/Brasiliae/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Pippa-W.github.io/M/images/Brasiliae/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 24
+            }, {
+              "width" : 63,
+              "height" : 47
+            }, {
+              "width" : 125,
+              "height" : 93
+            }, {
+              "width" : 250,
+              "height" : 186
+            }, {
+              "width" : 500,
+              "height" : 372
+            }, {
+              "width" : 1000,
+              "height" : 743
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1000,
+            "@id" : "https://Pippa-W.github.io/M/images/Brasiliae",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 743
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1000,
+          "id" : "https://Pippa-W.github.io/M/images/Brasiliae/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 743
+        },
+        "target" : "https://Pippa-W.github.io/M/images/Brasiliae/canvas/"
+      } ]
+    } ],
+    "height" : 743
+  }, {
+    "width" : 1000,
     "id" : "https://Pippa-W.github.io/M/images/Amerique/canvas/",
     "label" : {
       "none" : [ "Amerique" ]
