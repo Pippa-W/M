@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Pippa-W.github.io/M/manifests/manifest2.json",
   "@type" : "sc:Manifest",
-  "label" : "16th Maps",
+  "label" : "[Click to edit label]",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "These maps show the outer reaches of the world in the 16th Century",
+    "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "Hand drawn in ink",
+  "attribution" : "[Click to edit attribution]",
   "sequences" : [ {
     "@id" : "http://a329e2c1-9a65-4b10-acaa-49a06f2fed7b",
     "@type" : "sc:Sequence",
@@ -119,37 +119,6 @@
           "width" : 1000
         },
         "on" : "http://9924ed56-4e8b-4ebb-b678-5fe260f71209"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://5573d9d5-0c9a-4870-8c60-709b790f25a0",
-      "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
-      "height" : 3473,
-      "width" : 4386,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://c589e365-3466-4f49-9709-f2d289b5ed66",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052180241.0x000001/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100052180241.0x000001",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "maxHeight" : 2000,
-              "maxWidth" : 2000,
-              "qualities" : [ "gray", "color", "bitonal" ],
-              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
-            } ]
-          },
-          "height" : 3473,
-          "width" : 4386
-        },
-        "on" : "http://5573d9d5-0c9a-4870-8c60-709b790f25a0"
       } ],
       "related" : ""
     } ]
