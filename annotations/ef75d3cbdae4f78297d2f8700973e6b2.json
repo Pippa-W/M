@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\">Unsubstantiated town name",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\">Unsubstantiated town name</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102168324",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T20:48:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648154895146",
+    "dcterms:modified" : "2022-03-24T20:48:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Pippa-W.github.io/M/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3091,1268,54,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3118.48387,1349.52867c0,-18.04062 9.02031,-36.08124 27.06093,-54.12186c0,-14.94534 -12.11559,-27.06093 -27.06093,-27.06093c-14.94534,0 -27.06093,12.11559 -27.06093,27.06093c18.04062,18.04062 27.06093,36.08124 27.06093,54.12186z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_7e2eaa44-bdf1-44b3-a9ea-c987d14bf8c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5573d9d5-0c9a-4870-8c60-709b790f25a0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area lost to coastal erosion",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area lost to coastal erosion</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102168324",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T20:49:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648154995561",
+    "dcterms:modified" : "2022-03-24T20:50:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Pippa-W.github.io/M/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3066,1100,267,231"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3332.26523,1314.34946c0,-5.02829 1.19392,-11.46086 0,-16.23656c-0.7888,-3.15521 -4.38371,-5.03286 -5.41219,-8.11828c-0.57049,-1.71148 0.57049,-3.7007 0,-5.41219c-0.63783,-1.9135 -4.51016,-0.90203 -5.41219,-2.70609c-0.8068,-1.6136 0.57049,-3.7007 0,-5.41219c-0.98853,-2.96558 -6.36364,-5.48633 -8.11828,-8.11828c-3.56595,-5.34893 -0.6078,-6.62778 -2.70609,-10.82437c-0.75476,-1.50952 -7.3861,-10.09219 -8.11828,-10.82437c-0.63783,-0.63783 -2.06826,0.63783 -2.70609,0c-1.66254,-1.66254 -1.78777,-6.30607 -5.41219,-8.11828c-7.03374,-3.51687 -13.91362,-6.95681 -21.64875,-10.82437c-2.28198,-1.14099 -2.99178,-4.60539 -5.41219,-5.41219c-3.52831,-1.1761 -8.19452,-0.07624 -10.82437,-2.70609c-1.42624,-1.42624 -1.02785,-4.29335 -2.70609,-5.41219c-3.00214,-2.00143 -7.32398,0.8751 -10.82437,0c-6.33823,-1.58456 -9.72485,-3.78426 -16.23656,-5.41219c-6.35117,-1.58779 -9.19541,-6.67326 -13.53047,-8.11828c-2.56723,-0.85574 -5.69788,1.2102 -8.11828,0c-7.42275,-3.71138 -13.78072,-9.59645 -21.64875,-13.53047c-1.6136,-0.8068 -3.79858,0.8068 -5.41219,0c-2.28198,-1.14099 -3.13021,-4.2712 -5.41219,-5.41219c-0.8068,-0.4034 -2.06826,0.63783 -2.70609,0c-1.27566,-1.27566 1.27566,-4.13652 0,-5.41219c-1.42624,-1.42624 -3.98595,-1.27986 -5.41219,-2.70609c-0.71632,-0.71632 0,-7.00401 0,-8.11828c0,-11.42736 -0.86885,-24.45439 2.70609,-35.17921c0.55048,-1.65143 4.86171,-6.46685 5.41219,-8.11828c1.3752,-4.12561 1.35997,-19.61572 -2.70609,-21.64875c-3.75896,-1.87948 -24.95379,0 -29.76703,0c-4.68722,0 -31.00191,-2.08865 -35.17921,0c-2.28198,1.14099 -2.99178,4.60539 -5.41219,5.41219c-1.71148,0.57049 -3.79858,-0.8068 -5.41219,0c-2.455,1.2275 -14.97312,16.41578 -16.23656,18.94265c-0.8068,1.6136 0.57049,3.7007 0,5.41219c-2.28295,6.84884 -8.94537,11.42664 -10.82437,18.94265c-2.93353,11.7341 0,28.53768 0,40.5914c0,4.30125 -1.3676,12.13375 0,16.23656c0.97786,2.93357 5.97945,3.27336 8.11828,5.41219c2.13883,2.13883 2.47862,7.14042 5.41219,8.11828c1.71148,0.57049 3.79858,-0.8068 5.41219,0c0.8068,0.4034 -0.63783,2.06826 0,2.70609c0.63783,0.63783 2.06826,-0.63783 2.70609,0c1.42624,1.42624 1.27986,3.98595 2.70609,5.41219c4.38088,4.38088 18.44562,2.45758 24.35484,5.41219c6.40368,3.20184 15.00336,11.8063 21.64875,16.23656c4.86194,3.24129 11.39553,2.99167 16.23656,5.41219c2.20585,1.10292 15.04709,9.04016 16.23656,10.82437c1.11883,1.67825 1.27986,3.98595 2.70609,5.41219c1.42624,1.42624 4.51016,0.90203 5.41219,2.70609c0.82003,1.64006 1.57212,6.98431 2.70609,8.11828c0.63783,0.63783 2.06826,-0.63783 2.70609,0c2.402,2.402 -1.76479,19.88396 2.70609,24.35484c1.3512,1.3512 16.41056,2.70609 18.94265,2.70609c12.62843,0 25.25687,0 37.8853,0c3.25038,0 10.68502,-1.42272 13.53047,0c5.41562,2.70781 11.27683,5.63841 16.23656,8.11828c1.80406,0.90203 1.27986,3.98595 2.70609,5.41219c0.25242,0.25242 12.39231,2.13701 13.53047,2.70609c12.17671,6.08836 24.88107,5.41219 40.5914,5.41219\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"smooth_path_e0515c5d-c244-49e4-9684-ac561e743182\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5573d9d5-0c9a-4870-8c60-709b790f25a0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\">Unsubstantiated town name",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\">Unsubstantiated town name</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102168324",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T20:47:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648154861051",
+    "dcterms:modified" : "2022-03-24T20:47:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Pippa-W.github.io/M/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2047,2095,49,73"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2071.22581,2167.58065c0,-16.23656 8.11828,-32.47312 24.35484,-48.70968c0,-13.45081 -10.90403,-24.35484 -24.35484,-24.35484c-13.45081,0 -24.35484,10.90403 -24.35484,24.35484c16.23656,16.23656 24.35484,32.47312 24.35484,48.70968z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2eb9ca6b-e7e1-4833-86b9-ada0d944f2ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5573d9d5-0c9a-4870-8c60-709b790f25a0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area lost to coastal erosion&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area lost to coastal erosion&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102168324",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T20:48:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648154928717",
+    "dcterms:modified" : "2022-03-24T20:49:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Pippa-W.github.io/M/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=742,2323,359,289"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1056.44086,2329.13441c-36.08124,0 -72.16249,0 -108.24373,0c-6.60033,0 -38.32487,-2.48631 -43.29749,0c-3.06217,1.53109 -13.17439,9.29329 -16.23656,10.82437c-1.6136,0.8068 -3.79858,-0.8068 -5.41219,0c-2.28198,1.14099 -3.13021,4.2712 -5.41219,5.41219c-3.2272,1.6136 -7.59717,-1.6136 -10.82437,0c-2.28198,1.14099 -3.13021,4.2712 -5.41219,5.41219c-1.6136,0.8068 -4.60539,-1.6136 -5.41219,0c-1.6136,3.2272 2.55133,8.27304 0,10.82437c-2.55133,2.55133 -7.40141,-1.14099 -10.82437,0c-2.4204,0.8068 -3.13021,4.2712 -5.41219,5.41219c-3.2272,1.6136 -7.59717,-1.6136 -10.82437,0c-2.28198,1.14099 -3.13021,4.2712 -5.41219,5.41219c-5.19439,2.5972 -16.4512,-1.73252 -21.64875,0c-2.4204,0.8068 -4.2712,3.13021 -5.41219,5.41219c-0.8068,1.6136 1.27566,4.13652 0,5.41219c-1.27566,1.27566 -3.79858,-0.8068 -5.41219,0c-2.28198,1.14099 -3.13021,4.2712 -5.41219,5.41219c-1.6136,0.8068 -3.79858,-0.8068 -5.41219,0c-2.28198,1.14099 -4.2712,3.13021 -5.41219,5.41219c-0.8068,1.6136 1.27566,4.13652 0,5.41219c-1.27566,1.27566 -3.7007,-0.57049 -5.41219,0c-8.20936,2.73645 -22.91839,13.36366 -27.06093,21.64875c-1.59704,3.19408 0,12.59886 0,16.23656c0,12.62843 0,25.25687 0,37.8853c0,23.45281 0,46.90562 0,70.35842c0,1.98755 -0.21779,21.43095 0,21.64875c1.27566,1.27566 4.13652,-1.27566 5.41219,0c1.27566,1.27566 -1.27566,4.13652 0,5.41219c1.27566,1.27566 4.13652,-1.27566 5.41219,0c1.27566,1.27566 -1.6136,4.60539 0,5.41219c5.38423,2.69212 15.16592,-2.14128 16.23656,0c1.6136,3.2272 -1.6136,7.59717 0,10.82437c0.8068,1.6136 3.7007,-0.57049 5.41219,0c6.17084,2.05695 10.41863,7.91541 16.23656,10.82437c4.32975,2.16487 11.90681,-2.16487 16.23656,0c4.56396,2.28198 6.26042,8.54239 10.82437,10.82437c3.19408,1.59704 12.59886,0 16.23656,0c12.62843,0 25.25687,0 37.8853,0c3.60812,0 7.59717,1.6136 10.82437,0c4.56396,-2.28198 6.26042,-8.54239 10.82437,-10.82437c3.35867,-1.67933 19.24126,0 21.64875,0c4.39102,0 12.10083,1.37858 16.23656,0c3.82699,-1.27566 6.99738,-4.13652 10.82437,-5.41219c1.71148,-0.57049 4.13652,1.27566 5.41219,0c6.13388,-6.13388 7.26656,-17.16375 16.23656,-21.64875c1.6136,-0.8068 4.13652,1.27566 5.41219,0c1.27566,-1.27566 -1.27566,-4.13652 0,-5.41219c1.27566,-1.27566 4.13652,1.27566 5.41219,0c1.27566,-1.27566 -1.27566,-4.13652 0,-5.41219c1.27566,-1.27566 3.79858,0.8068 5.41219,0c2.28198,-1.14099 3.13021,-4.2712 5.41219,-5.41219c1.6136,-0.8068 4.13652,1.27566 5.41219,0c1.27566,-1.27566 -1.27566,-4.13652 0,-5.41219c1.27566,-1.27566 4.13652,1.27566 5.41219,0c1.27566,-1.27566 -0.8068,-3.79858 0,-5.41219c1.14099,-2.28198 3.13021,-4.2712 5.41219,-5.41219c1.6136,-0.8068 3.79858,0.8068 5.41219,0c4.56396,-2.28198 6.26042,-8.54239 10.82437,-10.82437c1.6136,-0.8068 3.79858,0.8068 5.41219,0c8.6595,-4.32975 12.98925,-17.319 21.64875,-21.64875c1.6136,-0.8068 4.13652,1.27566 5.41219,0c1.27566,-1.27566 -0.8068,-3.79858 0,-5.41219c1.80406,-3.60812 12.62843,-14.4325 16.23656,-16.23656c1.6136,-0.8068 3.79858,0.8068 5.41219,0c2.28198,-1.14099 4.2712,-3.13021 5.41219,-5.41219c0.8068,-1.6136 -0.8068,-3.79858 0,-5.41219c2.28198,-4.56396 8.54239,-6.26042 10.82437,-10.82437c0.8068,-1.6136 -1.27566,-4.13652 0,-5.41219c1.27566,-1.27566 4.60539,1.6136 5.41219,0c1.6136,-3.2272 -1.14099,-7.40141 0,-10.82437c0.8068,-2.4204 4.2712,-3.13021 5.41219,-5.41219c1.59704,-3.19408 0,-12.59886 0,-16.23656c0,-14.4325 0,-28.86499 0,-43.29749c0,-6.26301 2.83608,-21.38877 0,-27.06093c-2.28198,-4.56396 -8.54239,-6.26042 -10.82437,-10.82437c-1.67619,-3.35238 1.60137,-20.04738 0,-21.64875c-2.55133,-2.55133 -7.21625,0 -10.82437,0c-10.82437,0 -21.64875,0 -32.47312,0c-41.49343,0 -82.98686,0 -124.48029,0\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"smooth_path_0010925a-aaf6-49cf-adbb-210e47c65fa4\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"16.23656\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5573d9d5-0c9a-4870-8c60-709b790f25a0"
+    } ]
+  } ],
+  "@id" : "https://Pippa-W.github.io/M/annotations/ef75d3cbdae4f78297d2f8700973e6b2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
