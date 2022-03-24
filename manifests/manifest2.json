@@ -5,11 +5,11 @@
   "label" : "16th Maps",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Outer reaches of the world]",
+    "@value" : "These maps show the outer reaches of the world in the 16th Century",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Hand drawn in ink",
   "sequences" : [ {
     "@id" : "http://a329e2c1-9a65-4b10-acaa-49a06f2fed7b",
     "@type" : "sc:Sequence",
